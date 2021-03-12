@@ -213,6 +213,7 @@
 - [Alfredo Varela](https://github.com/fikandata) 
 - [Frank Schmidtner](https://github.com/littlelordy)
 - [Benjamin Dangl](https://github.com/benicamera)
+- Dani3la
 - PRANAV VYAS
 - [Raman Lamichhane](https://github.com/ramanic)
 - [Ritik Dutta](https://github.com/ritikdutta)
